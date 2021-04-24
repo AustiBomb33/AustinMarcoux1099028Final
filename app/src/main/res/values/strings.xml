@@ -3,4 +3,9 @@
     <string name="placeholder">placeholder</string>
     <string name="add_bucket_list_item">Add Bucket List Item</string>
     <string name="view_bucket_list">View Bucket List</string>
+    <string name="button">Button</string>
+    <string name="destination_description">Destination Description</string>
+    <string name="destination_name">Destination Name</string>
+    <string name="rank_1_10">Rank 1-10</string>
+    <string name="add_destination">Add Destination</string>
 </resources>
