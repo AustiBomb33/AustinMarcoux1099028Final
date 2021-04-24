@@ -18,6 +18,10 @@ class MainActivity : AppCompatActivity() {
         if(FirebaseAuth.getInstance().currentUser == null){
             val intent = Intent(this, LoginActivity::class.java)
             startActivity(intent)
+        } else {
+            val intent = Intent(this, BucketListActivity::class.java)
+            startActivity(intent)
+            finish()
         }
     }
 }
