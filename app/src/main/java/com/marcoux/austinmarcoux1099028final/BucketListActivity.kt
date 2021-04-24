@@ -19,5 +19,10 @@ class BucketListActivity : AppCompatActivity() {
             val intent = Intent(this, AddBucketItemActivity::class.java)
             startActivity(intent);
         }
+
+        binding.buttonViewBucketList.setOnClickListener {
+            val intent = Intent(this, ViewBucketListActivity::class.java)
+            startActivity(intent)
+        }
     }
 }

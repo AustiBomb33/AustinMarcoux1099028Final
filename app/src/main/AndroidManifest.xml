@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AustinMarcoux1099028Final">
-        <activity android:name=".AddBucketItemActivity"></activity>
+        <activity android:name=".ViewBucketListActivity"></activity>
+        <activity android:name=".AddBucketItemActivity" />
         <activity android:name=".BucketListActivity" />
         <activity android:name=".LoginActivity" />
         <activity android:name=".MainActivity">

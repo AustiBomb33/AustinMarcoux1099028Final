@@ -5,5 +5,5 @@ class Destination {
     var owner: String? = null
     var name: String? = null
     var desc: String? = null
-    var rank: Number?= null
+    var rank: Int?= null
 }
