@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929977589428",
+    "project_id": "comp3025final-aeabb",
+    "storage_bucket": "comp3025final-aeabb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929977589428:android:0adf512140e78d9bab41e1",
+        "android_client_info": {
+          "package_name": "com.marcoux.austinmarcoux1099028final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929977589428-3bejoul4apc9v7bqpi3k5jvguefmj8al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLW9AkI4E44CIJghr6jx82klj6RV0FNis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929977589428-3bejoul4apc9v7bqpi3k5jvguefmj8al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
